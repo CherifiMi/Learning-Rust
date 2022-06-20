@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a8fd860-4f55-4049-8484-b61ddac3176b" name="Changes" comment="test">
+      <change afterPath="$PROJECT_DIR$/.idea/gussing_game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/gussing_game.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/deps/gussing_game.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/deps/gussing_game.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/deps/gussing_game.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/gussing_game.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/gussing_game.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/gussing_game.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/target/debug/gussing_game.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/1cgdm81pynd2hsed.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/1j9qlezpdwe4g1cw.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/1l7affl100tx09lt.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/1lhyn2p66fyzjn3n.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/1ou1bg0inbiz7hg8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/1ptprghjfogqn0m8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/22y1yobstil47ebm.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/274bknhww0rjosiv.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/2b4nesyoy8l0yoso.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/2q6m7ut9ths8h6em.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/2sdnho4mqspuwjl7.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/2wa2gmml1fbt03v.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/30h1uqnzyyw09k8q.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/33mpggzka1zn9ztt.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/3573i14tzbqqtjyb.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/362zry02bjsoj236.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/39hl6aw38s46hsuu.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/3ikypgp4ao1w5r49.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/3itgq6hjzxmk8v1l.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/3le0n2eij08oi7cp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/3mcpo62e15ei0epu.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/3v8t6nwjx7qqh1v0.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/49go5n2gig6hy8zg.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/4acpth3l5wu06l8v.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/4b7ga2euz7iylpwe.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/4l5796dd35k9yewx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/4nb37ne2nzlnfwt2.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/4thhzoxra54k188r.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/4u6ioahfy3l2kp5e.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/4uzwe5p80vj8cyvt.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/4yq7hlft4t0lypop.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/4z5y0xs8no752eop.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/52hxmhpjrxz3uqkb.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/5o5s3t7prde2kjw.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/azr7s3sa2ysqk52.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/d93rszu6mzb7x1a.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/i8nrroacs0fykly.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/ly6xby24bxalv9n.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/owtjmjxvriakucs.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/tzvcf2zi8eccnx5.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc-1vvw57uwswejn/ya2r5r8j6eyjumr.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/debug/incremental/gussing_game-1t0ra1bkul6t4/s-gavliq8p6i-jk5jgc.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/release/deps/gussing_game.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/release/deps/gussing_game.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/release/deps/gussing_game.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/target/release/deps/gussing_game.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/release/gussing_game.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/release/gussing_game.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/release/gussing_game.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/target/release/gussing_game.pdb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="zm7zunz1" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AolVLfdbPGbENPV9WyLTixdqMg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showModules" value="false" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Run gussing_game" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="command" value="run --package gussing_game --bin gussing_game" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo.Run gussing_game" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a8fd860-4f55-4049-8484-b61ddac3176b" name="Changes" comment="" />
+      <created>1655683850506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655683850506</updated>
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1655684241705</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655684241705</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+</project>
