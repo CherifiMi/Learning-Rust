@@ -19,5 +19,8 @@ fn test2(){
     let x: u32 = 1_000;
     let y: u32 = 0xff;
 
+    let tup: (i32, f64, bool) = (500, 6.4, true);
+    let (y, x, z) = tup;
 
+    println!(" tup is:{y} and {z} and {x}");
 }
