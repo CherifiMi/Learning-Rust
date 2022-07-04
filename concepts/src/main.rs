@@ -31,7 +31,8 @@ fn test3(){
     let a = [0.1, 23.32, 44.3];
     let b = [69; 5];
 
-    for i in a {
+    for i in b {
         println!("i: {i}")
     }
+    println!("{}", a[1])
 }
