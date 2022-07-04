@@ -15,3 +15,9 @@ fn test1() {
     println!("The value of x is: {}", x);
 }
 
+fn test2(){
+    let x: u32 = 1_000;
+    let y: u32 = 0xff;
+
+
+}
