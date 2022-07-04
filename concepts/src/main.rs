@@ -1,4 +1,8 @@
 fn main() {
+    test2()
+}
+
+fn test1() {
     let x = 5;
 
     let x = x + 1;
@@ -10,3 +14,4 @@ fn main() {
 
     println!("The value of x is: {}", x);
 }
+
