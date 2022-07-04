@@ -1,5 +1,5 @@
 fn main() {
-    test2()
+    test3()
 }
 
 fn _test1() {
@@ -15,7 +15,7 @@ fn _test1() {
     println!("The value of x is: {}", x);
 }
 
-fn test2(){
+fn _test2(){
     let _x: u32 = 1_000;
     let _y: u32 = 0xff;
 
@@ -25,4 +25,13 @@ fn test2(){
     x = 4.44;
 
     println!(" tup is:{y} and {z} and {x}");
+}
+
+fn test3(){
+    let a = [0.1, 23.32, 44.3];
+    let b = [69; 5];
+
+    for i in a {
+        println!("i: {i}")
+    }
 }
