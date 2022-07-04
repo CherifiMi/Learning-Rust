@@ -2,7 +2,7 @@ fn main() {
     test2()
 }
 
-fn test1() {
+fn _test1() {
     let x = 5;
 
     let x = x + 1;
@@ -16,11 +16,13 @@ fn test1() {
 }
 
 fn test2(){
-    let x: u32 = 1_000;
-    let y: u32 = 0xff;
+    let _x: u32 = 1_000;
+    let _y: u32 = 0xff;
 
     let tup: (i32, f64, bool) = (500, 6.4, true);
-    let (y, x, z) = tup;
+    let (y, mut x, z) = tup;
+
+    x = 4.44;
 
     println!(" tup is:{y} and {z} and {x}");
 }
