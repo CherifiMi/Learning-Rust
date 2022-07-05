@@ -1,5 +1,27 @@
 fn main() {
 
+
+}
+
+fn _labeled_loops(){
+    let mut x  = 0;
+
+    'hi: loop {
+        //println!("{x}");
+        x+=1;
+        if x == 10 { break 'hi }
+
+    }
+
+    let mut number = 3;
+
+    while number != 0 {
+        println!("{number}!");
+
+        number -= 1;
+    }
+
+    println!("LIFTOFF!!!");
 }
 
 fn _returning_values_from_loops(){
