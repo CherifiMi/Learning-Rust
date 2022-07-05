@@ -1,5 +1,17 @@
 fn main() {
 
+}
+
+fn _while(){
+    let mut number = 3;
+
+    while number != 0 {
+        println!("{number}!");
+
+        number -= 1;
+    }
+
+    println!("LIFTOFF!!!");
 
 }
 
@@ -38,6 +50,7 @@ fn _returning_values_from_loops(){
 
     println!("The result is {result}");
 }
+
 fn _stopping_loops(){
     let mut x = 0;
 
@@ -52,6 +65,7 @@ fn _set_val_if(){
 
     println!("{}",x);
 }
+
 fn _fizzbuzz(){
     for i in 1..101 {
 
