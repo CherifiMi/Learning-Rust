@@ -1,11 +1,23 @@
 fn main() {
 
-    let x = if false {3} else {6};
 
-    println!("{}",x);
 
 }
 
+fn _stopping_loops(){
+    let mut x = 0;
+
+    loop {
+        println!("{}", x);
+        x +=1;
+    }
+}
+
+fn _set_val_if(){
+    let x = if false {3} else {6};
+
+    println!("{}",x);
+}
 fn _fizzbuzz(){
     for i in 1..101 {
 
