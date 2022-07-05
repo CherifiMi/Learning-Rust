@@ -1,8 +1,8 @@
 fn main() {
-    test3()
+    functions()
 }
 
-fn _test1() {
+fn _var_mut() {
     let x = 5;
 
     let x = x + 1;
@@ -15,7 +15,7 @@ fn _test1() {
     println!("The value of x is: {}", x);
 }
 
-fn _test2(){
+fn _data_types(){
     let _x: u32 = 1_000;
     let _y: u32 = 0xff;
 
@@ -27,7 +27,7 @@ fn _test2(){
     println!(" tup is:{y} and {z} and {x}");
 }
 
-fn test3(){
+fn _arrays(){
     let a = [0.1, 23.32, 44.3];
     let b = [69; 5];
 
@@ -35,4 +35,17 @@ fn test3(){
         println!("i: {i}")
     }
     println!("{}", a[1])
+}
+
+fn functions(){
+    let x = {
+        let y = 6;
+        y*five(3)
+    };
+
+    println!("{}", x);
+}
+
+fn five(i: i32) -> i32 {
+    5*i
 }
