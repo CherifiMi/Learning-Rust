@@ -43,7 +43,11 @@ fn functions(){
         y*five(3)
     };
 
-    println!("{}", x);
+    let mut o = 0;
+    loop {
+        println!("{}", x);
+        o+=1;
+    }
 }
 /*
 will hiiii comments
