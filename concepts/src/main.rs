@@ -45,7 +45,10 @@ fn functions(){
 
     println!("{}", x);
 }
-
+/*
+will hiiii comments
+*/
+// * adff
 fn five(i: i32) -> i32 {
     5*i
 }
