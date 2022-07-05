@@ -1,9 +1,21 @@
 fn main() {
 
-
-
 }
 
+fn _returning_values_from_loops(){
+    let mut counter = 0;
+
+    let result = loop {
+        println!("{counter}");
+        counter += 1;
+
+        if counter == 10 {
+            break counter * 2;
+        }
+    };
+
+    println!("The result is {result}");
+}
 fn _stopping_loops(){
     let mut x = 0;
 
