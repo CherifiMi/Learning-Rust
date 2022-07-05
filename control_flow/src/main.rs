@@ -1,5 +1,26 @@
 fn main() {
+    _looping_collection()
+}
 
+fn _looping_collection(){
+    let a = [3, 23, 23, 4234, 99];
+    let mut s = 0;
+
+    while s<5 {
+        println!("the value is: {}", a[s]);
+
+        s +=1
+    }
+
+    for i in a
+    {
+        println!{"{}", i}
+    }
+
+    for number in (1..4).rev() {
+        println!("{number}!");
+    }
+    println!("LIFTOFF!!!");
 }
 
 fn _while(){
