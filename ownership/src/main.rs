@@ -1,15 +1,33 @@
 fn main() {
-    let s = String::from("hi");
+    let mut s = String::from("hello");
 
-    do_thing(s.clone())
+    let r1 = &s; // no problem
+    let r2 = &s; // no problem
+    println!("{} and {}", r1, r2);
+
+
+
+
+    let r3 = &mut s;
+    println!("{} and {}", r3, "r2");
+
 }
-fn do_thing(s: String){
-    //..
+
+
+
+
+
+//____________________________________________________________________
+fn _ref(){
+    let mut s = String::from("hillo");
+    let len = calculate_length(&mut s);
+
+    println!("The length of '{}' is {}.", s, len);
 }
-
-
-
-
+fn calculate_length(s: &mut String) -> usize{
+    s.push_str("there");
+    s.len()
+}
 //____________________________________________________________________
 fn _return_scope(){
     let s1 = _gives_ownership();
