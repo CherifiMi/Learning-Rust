@@ -1,0 +1,12 @@
+D:\mito\Resources\rust\rust-learn\nannou_test\target\release\deps\thiserror_impl-d695adb03191dfb5.dll: C:\Users\mitod\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.31\src\lib.rs C:\Users\mitod\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.31\src\ast.rs C:\Users\mitod\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.31\src\attr.rs C:\Users\mitod\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.31\src\expand.rs C:\Users\mitod\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.31\src\fmt.rs C:\Users\mitod\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.31\src\generics.rs C:\Users\mitod\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.31\src\prop.rs C:\Users\mitod\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.31\src\valid.rs
+
+D:\mito\Resources\rust\rust-learn\nannou_test\target\release\deps\thiserror_impl-d695adb03191dfb5.d: C:\Users\mitod\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.31\src\lib.rs C:\Users\mitod\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.31\src\ast.rs C:\Users\mitod\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.31\src\attr.rs C:\Users\mitod\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.31\src\expand.rs C:\Users\mitod\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.31\src\fmt.rs C:\Users\mitod\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.31\src\generics.rs C:\Users\mitod\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.31\src\prop.rs C:\Users\mitod\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.31\src\valid.rs
+
+C:\Users\mitod\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.31\src\lib.rs:
+C:\Users\mitod\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.31\src\ast.rs:
+C:\Users\mitod\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.31\src\attr.rs:
+C:\Users\mitod\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.31\src\expand.rs:
+C:\Users\mitod\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.31\src\fmt.rs:
+C:\Users\mitod\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.31\src\generics.rs:
+C:\Users\mitod\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.31\src\prop.rs:
+C:\Users\mitod\.cargo\registry\src\github.com-1ecc6299db9ec823\thiserror-impl-1.0.31\src\valid.rs:
