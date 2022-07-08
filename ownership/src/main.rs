@@ -1,22 +1,20 @@
 fn main() {
-    let mut s = String::from("hello");
-
-    let r1 = &s; // no problem
-    let r2 = &s; // no problem
-    println!("{} and {}", r1, r2);
-
-
-
-
-    let r3 = &mut s;
-    println!("{} and {}", r3, "r2");
 
 }
 
 
 
+//_______________________________________________________-
+fn _ref_scope(){
+    let mut s = String::from("hello");
 
+    let r3 = &mut s;
+    println!("{} and {}", r3, "r2");
 
+    let r1 = &s; // no problem
+    let r2 = &s; // no problem
+    println!("{} and {}", r1, r2);
+}
 //____________________________________________________________________
 fn _ref(){
     let mut s = String::from("hillo");
