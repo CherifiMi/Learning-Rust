@@ -8,7 +8,23 @@ fn main() {
 
 
 
-//_______________________________________________________________________-
+//_______________________________________________________________________
+fn _copy_clone_move(){
+    let s1 = String::from("well hello there!!");
+    let s2 = s1;
+
+    let z1 = String::from("well hello there!!");
+    let z2 = z1.clone();
+
+    let x = 1;
+    let y = x;
+
+    let d = 4;
+    let b = d;
+
+    println!("  z:{}  s:{} d:{}", z1==z2, x==y, d==b);
+}
+
 fn _functions(){
     let s = String::from("mito");
 
@@ -24,21 +40,4 @@ fn takes_ownership(s: String){
 }
 fn make_copy(x: i32){
     println!("{}", x);
-}
-
-
-fn _copy_clone_move(){
-    let s1 = String::from("well hello there!!");
-    let s2 = s1;
-
-    let z1 = String::from("well hello there!!");
-    let z2 = z1.clone();
-
-    let x = 1;
-    let y = x;
-
-    let d = 4;
-    let b = d;
-
-    println!("  z:{}  s:{} d:{}", z1==z2, x==y, d==b);
 }
