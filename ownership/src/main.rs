@@ -1,7 +1,7 @@
 fn main() {
     let mut s = String::from("well hello there!!");
 
-    let v = s.clone();
+    let v = s;
 
 
 
@@ -9,5 +9,8 @@ fn main() {
 
     let y = x;
 
-    println!("{s} and {v}");
+    let d = "s";
+    let b = d;
+
+    println!("{}", d==b);
 }
