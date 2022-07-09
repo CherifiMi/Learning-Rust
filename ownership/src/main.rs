@@ -1,10 +1,8 @@
 fn main() {
-
+    _return_scope()
 }
 
-
-
-//_______________________________________________________-
+//_____________________________________________________________________
 fn _ref_scope(){
     let mut s = String::from("hello");
 
@@ -18,11 +16,11 @@ fn _ref_scope(){
 //____________________________________________________________________
 fn _ref(){
     let mut s = String::from("hillo");
-    let len = calculate_length(&mut s);
+    let len = _calculate_length(&mut s);
 
     println!("The length of '{}' is {}.", s, len);
 }
-fn calculate_length(s: &mut String) -> usize{
+fn _calculate_length(s: &mut String) -> usize{
     s.push_str("there");
     s.len()
 }
