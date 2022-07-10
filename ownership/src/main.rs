@@ -1,5 +1,7 @@
 fn main() {
-    _return_scope()
+
+    println!("fufdfde");
+
 }
 
 //_____________________________________________________________________
@@ -60,7 +62,6 @@ fn _copy_clone_move() {
 
     println!("  z:{}  s:{} d:{}", z1 == z2, x == y, d == b);
 }
-
 //_______________________________________________________________________
 fn _functions() {
     let s = String::from("mito");
@@ -72,11 +73,9 @@ fn _functions() {
 
     println!("{}", x);
 }
-
 fn _takes_ownership(s: String) {
     println!("{}", s);
 }
-
 fn _make_copy(x: i32) {
     println!("{}", x);
 }
