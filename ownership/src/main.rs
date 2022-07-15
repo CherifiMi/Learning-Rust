@@ -2,7 +2,13 @@ fn main() {
 
     let mut s = String::from("mito cherifi hillo wr wer wr4 2432423");
 
-    println!("{}", second_word(&s));
+    let a = [1, 2, 3, 4, 5];
+
+    let x = &a[2..5];
+
+    for i in x {
+        println!("{}", i);
+    }
 
     s.clear();
 }
