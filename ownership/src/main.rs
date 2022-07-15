@@ -1,9 +1,11 @@
 fn main() {
 
-    let s = String::from("sdfsdfw dfw eefs fds ewerr");
+    let mut s = String::from("mito_mito");
 
-    println!("{}", first_word(&s))
+    let x = &s[0..4];
+    println!("{}", x);
 
+    s.clear();
 }
 
 fn first_word(s: &String)->usize{
