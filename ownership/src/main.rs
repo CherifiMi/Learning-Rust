@@ -1,23 +1,22 @@
 fn main() {
 
-    let s = String::from("mito");
+    let s = String::from("sdfsdfw dfw eefs fds ewerr");
 
-    let x = s.as_bytes();
-    for i in x {
-        println!("{}",i)
-    }
-
-
-    //println!("{}", s.as_bytes().to_string())
-
-
+    println!("{}", first_word(&s))
 
 }
 
 fn first_word(s: &String)->usize{
 
     let bytes = s.as_bytes();
-    4
+    for (i, &item) in bytes.iter().enumerate(){
+        if item == b' '{
+            return i
+        }
+    }
+
+    s.len()
+
 }
 
 //_____________________________________________________________________
