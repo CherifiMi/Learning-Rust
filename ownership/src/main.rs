@@ -1,14 +1,48 @@
 fn main() {
 
-    let mut s = String::from("mito_mito");
+    let mut s = String::from("mito cherifi hillo wr wer wr4 2432423");
 
-    let x = &s[0..4];
-    println!("{}", x);
+    println!("{}", second_word(&s));
 
     s.clear();
 }
 
-fn first_word(s: &String)->usize{
+fn second_word(s: &String)->&str{
+
+    let mut a = 0;
+    let mut b = 0;
+
+    let bytes = s.as_bytes();
+    for (i, &item) in bytes.iter().enumerate(){
+
+        if item == b' '&& a == 0{
+            a = i;
+        }
+
+        else if item == b' '&& b == 0{
+            b = i;
+            break
+        }
+    }
+
+    &s[a..b]
+
+}
+
+fn first_word(s: &String)->&str{
+
+    let bytes = s.as_bytes();
+    for (i, &item) in bytes.iter().enumerate(){
+        if item == b' '{
+            return &s[0.. i];
+        }
+    }
+
+    &s
+
+}
+
+fn _first_word(s: &String)->usize{
 
     let bytes = s.as_bytes();
     for (i, &item) in bytes.iter().enumerate(){
