@@ -1,7 +1,23 @@
 fn main() {
 
-    println!("fufdfde");
+    let s = String::from("mito");
 
+    let x = s.as_bytes();
+    for i in x {
+        println!("{}",i)
+    }
+
+
+    //println!("{}", s.as_bytes().to_string())
+
+
+
+}
+
+fn first_word(s: &String)->usize{
+
+    let bytes = s.as_bytes();
+    4
 }
 
 //_____________________________________________________________________
